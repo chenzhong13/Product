@@ -1,7 +1,7 @@
 {
-	"version_name": "2",
-	"version_code": 2,
-	"force_update": 1,
+	"version_name": "3",
+	"version_code": 3,
+	"force_update": 0,
 	"version_desc": "版本重大更新，请升级",
 	"show_times": 3,
 	"show_interval": 60000,
