@@ -71,6 +71,7 @@
             "cover": "http://imgs.xiuna.com/xiezhen/2014-9-1/1/0001.jpg",
             "root": "http://imgs.xiuna.com/xiezhen/2014-9-1/1/",
             "favor": 0,
+            "color":"#E77DBD",
             "data": [
                 "0001.jpg",
                 "0004.jpg",
