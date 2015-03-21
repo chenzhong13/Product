@@ -32,6 +32,7 @@
             "cover": "http://ygimg1.mnsfz.com/pic/yangguang/2013-3-20/1/1363739789625499668655.jpg",
             "root": "http://ygimg1.mnsfz.com/pic/yangguang/2013-3-20/1/",
             "favor": 0,
+            "color":"#DD422E",
             "data": [
                 "1363739789625499668655.jpg",
                 "13637397904088501425129.jpg",
@@ -48,6 +49,7 @@
             "cover": "http://img.djys.com/meimo/2014-12-18/2/69d3dc3dgw1elboqlmf53j20jg0p1whj.jpg",
             "root": "",
             "favor": 0,
+            "color":"#E1D0B4",
             "data": [
                 "http://img.djys.com/meimo/2014-12-18/2/69d3dc3dgw1elboqlmf53j20jg0p1whj.jpg",
                 "http://img.djys.com/meimo/2014-12-18/2/69d3dc3dgw1elboqma9nkj20jg0p1417.jpg",
@@ -90,6 +92,7 @@
             "cover": "http://imgs.xiuna.com/xiezhen/2013-7-14/1/img1_src_7649911.jpg",
             "root": "http://imgs.xiuna.com/xiezhen/2013-7-14/1/",
             "favor": 0,
+            "color":"#B19BC2",
             "data": [
                 "img1_src_7649911.jpg",
                 "img1_src_7649912.jpg",
@@ -106,6 +109,7 @@
             "cover": "http://imgs.xiuna.com/xiezhen/2014-8-7/2/0001.jpg",
             "root": "http://imgs.xiuna.com/xiezhen/2014-8-7/2/",
             "favor": 0,
+            "color":"#706051",
             "data": [
                 "0001.jpg",
                 "0002.jpg",
@@ -124,6 +128,7 @@
             "cover": "http://imgs.xiuna.com/xiezhen/2013-8-7/2/13754048077813628673783.jpg",
             "root": "http://imgs.xiuna.com/xiezhen/2013-8-7/2/",
             "favor": 0,
+            "color":"#E2E9A3",
             "data": [
                 "13754048077813628673783.jpg",
                 "13754048093497806087754.jpg",
@@ -140,6 +145,7 @@
             "cover": "http://mhimg1.mnsfz.com/pic/meihuo/2014-1-27/1/2.jpg",
             "root": "http://mhimg1.mnsfz.com/pic/meihuo/2014-1-27/1/",
             "favor": 0,
+            "color":"#8C4BE3",
             "data": [
                 "2.jpg",
                 "3.jpg",
